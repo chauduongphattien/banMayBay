@@ -11,6 +11,9 @@ using System.Web;
 using System.Windows.Forms;
 using System.Threading;
 using System.Runtime.InteropServices;
+using System.IO;
+using System.Reflection;
+using System.Resources;
 
 namespace shotPlanet
 {
@@ -106,7 +109,7 @@ namespace shotPlanet
                     pic.Width = 20;
                     pic.Height = 20;
                     pic.BackColor = Color.Transparent;
-                    pic.Image = Image.FromFile(@"N:\socketjava\shotPlanet\shotPlanet\Resources\dan.png");
+                    pic.Image = shotPlanet.Properties.Resources.dan;
                     pic.SizeMode=PictureBoxSizeMode.Zoom;
                     pic.Location = c;
                     pictureBoxes.Add(pic);
@@ -316,7 +319,13 @@ namespace shotPlanet
             PictureBox pic = new PictureBox();
             pic.Width = 80;
             pic.Height = 40;
-            pic.Image = Image.FromFile(@"N:\socketjava\shotPlanet\shotPlanet\Resources\dich.png");
+            pic.Image = shotPlanet.Properties.Resources.dich;
+           //pic.Image = Image.FromFile(@"\Resources\dich.png");
+            /*Stream stream = Assembly.GetExecutingAssembly().GetManifestResourceStream("shotPlanet.Properties.Resources.maybay1");
+            
+            // Tạo một đối tượng Image từ stream
+            Image image = Image.FromStream(stream);
+            pic.Image = image;*/
             pic.SizeMode = PictureBoxSizeMode.StretchImage;
             pic.BackColor = Color.Transparent;
             plane pl = new plane(pic, hp);

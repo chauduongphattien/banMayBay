@@ -135,5 +135,13 @@
   <ItemGroup>
     <None Include="Resources\images.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="dan.png" />
+    <None Include="Resources\danban.png" />
+    <None Include="Resources\maybaydich.png" />
+    <EmbeddedResource Include="Resources\dich.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

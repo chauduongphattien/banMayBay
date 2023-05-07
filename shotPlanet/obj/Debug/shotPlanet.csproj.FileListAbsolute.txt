@@ -11,3 +11,18 @@ N:\socketjava\shotPlanet\shotPlanet\obj\Debug\shotPlanet.exe
 N:\socketjava\shotPlanet\shotPlanet\obj\Debug\shotPlanet.pdb
 N:\socketjava\shotPlanet\shotPlanet\obj\Debug\shotPlanet.Component1.resources
 N:\socketjava\shotPlanet\shotPlanet\obj\Debug\shotPlanet.UserControl1.resources
+N:\socketjava\shotPlanet\shotPlanet\bin\Debug\Resources\dich.png
+N:\socketjava\shotPlanet\New folder\shotPlanet\bin\Debug\Resources\dich.png
+N:\socketjava\shotPlanet\New folder\shotPlanet\bin\Debug\shotPlanet.exe.config
+N:\socketjava\shotPlanet\New folder\shotPlanet\bin\Debug\shotPlanet.exe
+N:\socketjava\shotPlanet\New folder\shotPlanet\bin\Debug\shotPlanet.pdb
+N:\socketjava\shotPlanet\New folder\shotPlanet\obj\Debug\shotPlanet.csproj.AssemblyReference.cache
+N:\socketjava\shotPlanet\New folder\shotPlanet\obj\Debug\shotPlanet.csproj.SuggestedBindingRedirects.cache
+N:\socketjava\shotPlanet\New folder\shotPlanet\obj\Debug\shotPlanet.Component1.resources
+N:\socketjava\shotPlanet\New folder\shotPlanet\obj\Debug\shotPlanet.Form1.resources
+N:\socketjava\shotPlanet\New folder\shotPlanet\obj\Debug\shotPlanet.Properties.Resources.resources
+N:\socketjava\shotPlanet\New folder\shotPlanet\obj\Debug\shotPlanet.UserControl1.resources
+N:\socketjava\shotPlanet\New folder\shotPlanet\obj\Debug\shotPlanet.csproj.GenerateResource.cache
+N:\socketjava\shotPlanet\New folder\shotPlanet\obj\Debug\shotPlanet.csproj.CoreCompileInputs.cache
+N:\socketjava\shotPlanet\New folder\shotPlanet\obj\Debug\shotPlanet.exe
+N:\socketjava\shotPlanet\New folder\shotPlanet\obj\Debug\shotPlanet.pdb

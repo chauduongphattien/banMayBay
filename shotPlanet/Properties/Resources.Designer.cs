@@ -123,6 +123,36 @@ namespace shotPlanet.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap dan1 {
+            get {
+                object obj = ResourceManager.GetObject("dan1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap danban {
+            get {
+                object obj = ResourceManager.GetObject("danban", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap dich {
+            get {
+                object obj = ResourceManager.GetObject("dich", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap hinh_nen_vu_tru_den_optimized {
             get {
                 object obj = ResourceManager.GetObject("hinh-nen-vu-tru-den_optimized", resourceCulture);
@@ -156,6 +186,16 @@ namespace shotPlanet.Properties {
         internal static System.Drawing.Bitmap maybay1 {
             get {
                 object obj = ResourceManager.GetObject("maybay1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap maybaydich {
+            get {
+                object obj = ResourceManager.GetObject("maybaydich", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
